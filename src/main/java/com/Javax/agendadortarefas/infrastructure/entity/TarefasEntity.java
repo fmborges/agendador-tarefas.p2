@@ -19,11 +19,11 @@ public class TarefasEntity {
     @Id
     private String id;
     private String nomeTarefa;
-    private String descrição;
+    private String descricaoo;
     private LocalDateTime dataCriacao;
     private LocalDateTime dataEvento;
     private String emailUsuario;
-    private LocalDateTime dataAleracao;
+    private LocalDateTime dataAlteracao;
     private StatusNotificacaoEnum statusNotificacaoEnum;
 
 
